@@ -1,0 +1,1 @@
+This repo contains Virtual Reality apps developed during my internship at IDEAL Industries INC. Source code for these apps could not be provided, but APK files are available for deployment of these apps.
